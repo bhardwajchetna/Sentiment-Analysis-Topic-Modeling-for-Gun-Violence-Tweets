@@ -1,4 +1,4 @@
-# Sentiment-Analysis-Topic-Modeling-for-Gun-Violence-Tweets
+# Gun-Violence-Tweets(Sentiment-Analysis-Topic-Modeling)
 A goal of this project was to identify the key topics revolving around gun violence issues and help nonprofits and relevant government institutions to better understand the public opinions about the initiatives that they proposed to address gun violence issues and take in-time corrective measures to guide the campaigns to a successful trajectory. 
 
 Data consists in the form of real-time tweets collected under three broad categories:
